@@ -1,0 +1,30 @@
+C:\la_projectas\asp api\bin\Debug\net8.0\appsettings.Development.json
+C:\la_projectas\asp api\bin\Debug\net8.0\appsettings.json
+C:\la_projectas\asp api\bin\Debug\net8.0\asp api.staticwebassets.endpoints.json
+C:\la_projectas\asp api\bin\Debug\net8.0\asp api.exe
+C:\la_projectas\asp api\bin\Debug\net8.0\asp api.deps.json
+C:\la_projectas\asp api\bin\Debug\net8.0\asp api.runtimeconfig.json
+C:\la_projectas\asp api\bin\Debug\net8.0\asp api.dll
+C:\la_projectas\asp api\bin\Debug\net8.0\asp api.pdb
+C:\la_projectas\asp api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\la_projectas\asp api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\la_projectas\asp api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\la_projectas\asp api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\la_projectas\asp api\obj\Debug\net8.0\asp api.csproj.AssemblyReference.cache
+C:\la_projectas\asp api\obj\Debug\net8.0\asp api.GeneratedMSBuildEditorConfig.editorconfig
+C:\la_projectas\asp api\obj\Debug\net8.0\asp api.AssemblyInfoInputs.cache
+C:\la_projectas\asp api\obj\Debug\net8.0\asp api.AssemblyInfo.cs
+C:\la_projectas\asp api\obj\Debug\net8.0\asp api.csproj.CoreCompileInputs.cache
+C:\la_projectas\asp api\obj\Debug\net8.0\asp api.MvcApplicationPartsAssemblyInfo.cs
+C:\la_projectas\asp api\obj\Debug\net8.0\asp api.MvcApplicationPartsAssemblyInfo.cache
+C:\la_projectas\asp api\obj\Debug\net8.0\scopedcss\bundle\asp api.styles.css
+C:\la_projectas\asp api\obj\Debug\net8.0\staticwebassets.build.json
+C:\la_projectas\asp api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\la_projectas\asp api\obj\Debug\net8.0\staticwebassets.development.json
+C:\la_projectas\asp api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\la_projectas\asp api\obj\Debug\net8.0\asp api.csproj.Up2Date
+C:\la_projectas\asp api\obj\Debug\net8.0\asp api.dll
+C:\la_projectas\asp api\obj\Debug\net8.0\refint\asp api.dll
+C:\la_projectas\asp api\obj\Debug\net8.0\asp api.pdb
+C:\la_projectas\asp api\obj\Debug\net8.0\asp api.genruntimeconfig.cache
+C:\la_projectas\asp api\obj\Debug\net8.0\ref\asp api.dll
