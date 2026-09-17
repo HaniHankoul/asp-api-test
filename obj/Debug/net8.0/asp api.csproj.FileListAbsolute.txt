@@ -28,3 +28,4 @@ C:\la_projectas\asp api\obj\Debug\net8.0\refint\asp api.dll
 C:\la_projectas\asp api\obj\Debug\net8.0\asp api.pdb
 C:\la_projectas\asp api\obj\Debug\net8.0\asp api.genruntimeconfig.cache
 C:\la_projectas\asp api\obj\Debug\net8.0\ref\asp api.dll
+C:\la_projectas\asp api\obj\Debug\net8.0\asp api.sourcelink.json
